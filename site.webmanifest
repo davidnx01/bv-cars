@@ -1,0 +1,13 @@
+{
+  "name": "BV Cars – servis BMW a MINI",
+  "short_name": "BV Cars",
+  "lang": "sk",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0C0E12",
+  "theme_color": "#0C0E12",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}
